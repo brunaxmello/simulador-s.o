@@ -1,0 +1,1 @@
+# simulador-s.o
